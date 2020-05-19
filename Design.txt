@@ -1,0 +1,16 @@
+Mechanic:
+- grid Width x Height 
+- position = column i + ((Height - 1) x Width ) with i < Width 
+- left, right -> move column/cursor position
+- up, down -> move colonne content
+- space -> strafff roll row content to the right
+- one line color match -> line content disepear and column content resize top down
+
+Visual:
+- use of skin theme: 
+	* 2D marble pearl sprite animated
+	* 2D cellshaded colored cube sprite
+	* 3D lighted color Cube
+	* 2d retro black lighted color cube sprite
+
+
